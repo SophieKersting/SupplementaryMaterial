@@ -1,14 +1,14 @@
 ################################################################################
 # Author:         Sophie J. Kersting
-# Last update:    Nov 2022
-# R-version:      4.2.2
+# Last update:    July 2023
+# R-version:      4.3.1
 ################################################################################
 #-------------------------------------------------------------------------------
-# Maximizing edge imbalance integrals
+# Maximizing edge imbalance
 #-------------------------------------------------------------------------------
 # Supplementary material of the manuscript
-# "Measuring 3D tree imbalance of graph-theoretical plant models"
-# by Sophie Kersting, Luise Kuehn and Mareike Fischer
+# "Measuring 3D tree imbalance of plant models using graph-theoretical approaches"
+# by Sophie Kersting, Luise Kühn, and Mareike Fischer
 #-------------------------------------------------------------------------------
 ################################################################################
 # Please first read the corresponding explanations in the manuscript. In this 
